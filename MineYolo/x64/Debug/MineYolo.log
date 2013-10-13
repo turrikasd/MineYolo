@@ -1,0 +1,17 @@
+﻿Build started 10/13/2013 4:27:39 AM.
+     1>Project "C:\Users\Despite\Documents\GitHub\MineYolo\MineYolo\MineYolo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\AMD64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\AMD64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Despite\Documents\GitHub\MineYolo\x64\Debug\MineYolo.exe" /INCREMENTAL /NOLOGO opengl32.lib freeglut.lib glew32.lib glutil.lib glload.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Despite\Documents\GitHub\MineYolo\x64\Debug\MineYolo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Despite\Documents\GitHub\MineYolo\x64\Debug\MineYolo.lib" /MACHINE:X64 x64\Debug\Block.obj
+         x64\Debug\Chunk.obj
+         x64\Debug\ChunkMgr.obj
+         x64\Debug\Main.obj
+         x64\Debug\Player.obj
+         MineYolo.vcxproj -> C:\Users\Despite\Documents\GitHub\MineYolo\x64\Debug\MineYolo.exe
+     1>Done Building Project "C:\Users\Despite\Documents\GitHub\MineYolo\MineYolo\MineYolo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.79
